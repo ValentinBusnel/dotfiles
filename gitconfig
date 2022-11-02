@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Valentinbusnel27@gmail.com
+	name = Valentin Busnel
